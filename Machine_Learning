@@ -1,0 +1,91 @@
+Saint Louis Community College
+Mc Kelvey Rd
+
+
+Idea Tracker
+tinyurl.com/y3x3d83n
+
+
+Registration & Agenda
+awsmlimmersiondaystlouis.splashhat.com
+
+Next Gen Stats - NFL
+
+Deep Racer and SageMaker RL
+
+---
+Sage Maker (5 steps)
+
+Network Instances with 200+ examples
+17 Built-in Algorithms
+ML Training Service * 5
+Hyper-Prameter Tuning Service * 2
+ML Hosting Service
+Btch Transform (inferencing, Data Transformation)
+SDKs
+Documentation & White Papers & Blog Posts
+
+
+-- 
+Books
+
+Deep Learning with Python
+Book by Francois Chollet
+
+Amazon SageMaker Techincal Deep Dive Series - You Tube - Emily Webber
+https://www.youtube.com/watch?edufilter=NULL&list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz&v=uQc8Itd4UTs
+
+
+---
+
+https://github.com/awslabs/amazon-sagemaker-examples/blob/master/introduction_to_amazon_algorithms/blazingtext_text_classification_dbpedia/blazingtext_text_classification_dbpedia.ipynb
+
+https://docs.aws.amazon.com/sagemaker/latest/dg/blazingtext.html
+
+https://arxiv.org/pdf/1607.04606.pdf
+
+-----
+
+https://sagemaker.readthedocs.io/en/stable/predictors.html
+----
+
+
+Examples
+
+https://github.com/awslabs/amazon-sagemaker-examples
+
+-----
+https://arxiv.org/pdf/1607.04606.pdf
+---
+
+https://sagemaker.readthedocs.io/en/stable/predictors.html
+
+sagemaker blog posts endpoints load test
+
+https://aws.amazon.com/blogs/machine-learning/load-test-and-optimize-an-amazon-sagemaker-endpoint-using-automatic-scaling/
+--
+
+sagemaker blog post sagebuild continuous
+
+https://aws.amazon.com/blogs/machine-learning/automated-and-continuous-deployment-of-amazon-sagemaker-models-with-aws-step-functions/
+
+---
+
+architecting for ml
+
+https://github.com/aws-samples/amazon-sagemaker-architecting-for-ml
+
+Registration Code: 4b58f386dda6
+
+
+----
+
+cloudformation separate apps
+
+why separate models should be understood
+
+reinvent features?
+
+
+
+
